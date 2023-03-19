@@ -5,5 +5,9 @@
     align-items: center;
     padding: 6rem;
     min-height: 90vh;
+    width: 100vw;
     background-color: #0d0d0d;
+    background-size: streach;
+    background-position: center;
+    background-repeat: no-repeat;
 }

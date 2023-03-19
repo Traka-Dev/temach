@@ -10,15 +10,10 @@ export default function Home() {
     <>
       <HeadHtml />
       <Navbar />
-      <main className={styles.main}>
-        <h1
-          style={{
-            color: "white",
-          }}
-        >
-          EL TEMACH
-        </h1>
-      </main>
+      <main
+        style={{ backgroundImage: "url('./bg.jpeg')" }}
+        className={styles.main}
+      ></main>
     </>
   )
 }
