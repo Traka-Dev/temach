@@ -12,6 +12,6 @@ export const navLinks = [{
     },
     {
         url: "/eventos",
-        text: "eventos"
+        text: "Eventos"
     }
 ]
